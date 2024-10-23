@@ -1,0 +1,16 @@
+{
+    "name": "be.appolyonknight.boatmb",
+    "rootNamespace": "",
+    "references": [
+        "be.appolyonknight.boatmb.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
