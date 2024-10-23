@@ -1,0 +1,19 @@
+{
+    "name": "be.appolyonknight.boatmb",
+    "version": "0.0.1",
+    "displayName": "AppolyonKinght Boat for Meet an Boat Game",
+    "description": "This is tool contains some script and 3D mesh for a boat in the game.",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/Appolyonknight/2024_10_23_PackageBoatAR",
+    "licensesUrl": "https://choosealicense.com/licenses/mit/",
+   "keywords": [
+      "ToolBox",
+      "Script"
+    ],
+    "author": {
+      "name": "AppoylyonKnight",
+      "email": "appolyonknight@gmail.com",
+      "url": "https://github.com/Appolyonknight"
+    }
+  }
