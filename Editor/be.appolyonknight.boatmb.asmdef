@@ -2,7 +2,8 @@
     "name": "be.appolyonknight.boatmb",
     "rootNamespace": "",
     "references": [
-        "be.appolyonknight.boatmb.Runtime"
+        "be.appolyonknight.boatmb.Runtime",
+        "Unity.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
